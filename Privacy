@@ -1,0 +1,23 @@
+Titolo: Informativa sulla Privacy - Scrollable Calendar Widget
+
+Ultimo aggiornamento: 16/01/2026
+1. Introduzione Questa Informativa sulla Privacy descrive come l'applicazione "Scrollable Calendar Widget" (di seguito "l'Applicazione"), sviluppata da Dev Piceni, gestisce i dati dell'utente. La nostra priorità è la privacy dell'utente: non raccogliamo, non trasmettiamo e non vendiamo i tuoi dati personali.
+
+2. Dati a cui accediamo L'Applicazione richiede l'accesso ai dati del calendario presente sul tuo dispositivo (permesso READ_CALENDAR).
+
+3. Come vengono utilizzati i dati L'accesso al calendario viene utilizzato esclusivamente per le seguenti finalità:
+Leggere gli eventi salvati nel calendario di sistema del tuo dispositivo.
+Visualizzare tali eventi (titolo, orario, colore) all'interno del Widget sulla schermata home e all'interno dell'app per la selezione dei calendari.
+Mostrare i dettagli degli eventi quando l'utente clicca su un giorno specifico.
+
+4. Archiviazione e Condivisione dei Dati
+Nessuna Raccolta: L'Applicazione non raccoglie i tuoi dati personali. I dati degli eventi vengono letti in tempo reale dal database interno del tuo telefono Android e mostrati direttamente all'utente.
+Nessuna Trasmissione: I dati del tuo calendario non vengono mai inviati a server esterni, cloud o terze parti. Tutto il processo di elaborazione avviene localmente sul tuo dispositivo.
+Nessuna Vendita: Non vendiamo, scambiamo o trasferiamo in alcun modo le tue informazioni a terzi.
+
+5. Permessi richiesti L'applicazione richiede il seguente permesso specifico per funzionare:
+android.permission.READ_CALENDAR: Necessario per leggere gli eventi da mostrare nel widget. Se questo permesso viene negato, l'applicazione mostrerà solo la griglia dei giorni senza gli eventi.
+
+6. Servizi di Terze Parti L'Applicazione include un link per le donazioni (PayPal). Cliccando su tale pulsante, verrai reindirizzato al sito web di PayPal tramite il browser di sistema. L'Applicazione non raccoglie né gestisce alcun dato finanziario o di pagamento; la transazione avviene interamente sulla piattaforma sicura di PayPal.
+
+7. Contatti Per qualsiasi domanda riguardante questa informativa sulla privacy, puoi contattarci al seguente indirizzo email: [renato.cicconi.21@gmail.com]
